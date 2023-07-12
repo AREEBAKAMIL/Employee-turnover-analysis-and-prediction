@@ -1,7 +1,7 @@
 # Employee-turnover-analysis_and_prediction
 In this repository, I analysed the employee turnover dataset using pandas and tried various supervised ML models to predict the occurrence of a turnover. Finally, I compared the accuracy obtained from each model and trained the model which provided the highest accuracy. 
 
-In the repository Employee-turnover-analysis-using-SQL, i had analysed the employee turnover dataset, at a high-level, using SQL. However, the analysis using SQL did not provide sufficient information to determine the relationship between the occurrence of the turnover('event') and the remaining variables.
+In the repository [Employee-turnover-analysis-using-SQL](https://github.com/AREEBAKAMIL/Employee-turnover-analyis-using-SQL/tree/main), i had analysed the employee turnover dataset, at a high-level, using SQL. However, the analysis using SQL did not provide sufficient information to determine the relationship between the occurrence of the turnover('event') and the remaining variables.
 
 In this repository, I used pandas and scikit-learn to analyze and predict the occurrence of a turnover. The results showed that the ExtraTreesClassifier performed the best, albeit, the accuracy score is still quite low.
 
